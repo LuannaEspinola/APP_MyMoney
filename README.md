@@ -1,5 +1,5 @@
 # APP_MyMoney
-APP_MyMoney_Facul
+“Sistema para gestão financeira pessol
 
 
-Integrantes: Alice Karina, Dani, Luanna Espinola, Matheus Corrêa
+Integrantes: Alice Karina, Danieli Tessaro, Luanna Espinola, Matheus Corrêa
